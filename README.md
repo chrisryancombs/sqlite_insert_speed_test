@@ -1,0 +1,1 @@
+# sqlite_insert_speed_test
